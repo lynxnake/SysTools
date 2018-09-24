@@ -3,7 +3,7 @@
         <ProjectGuid>{F6A9A3C6-1BD0-4D8A-B66C-F1518C175C87}</ProjectGuid>
         <MainSource>SysToolsDBDD.dpk</MainSource>
         <Base>True</Base>
-        <Config Condition="'$(Config)'==''">Release</Config>
+        <Config Condition="'$(Config)'==''">Debug</Config>
         <TargetedPlatforms>1</TargetedPlatforms>
         <AppType>Package</AppType>
         <FrameworkType>None</FrameworkType>
