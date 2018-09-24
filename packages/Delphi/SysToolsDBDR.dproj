@@ -3,7 +3,7 @@
         <ProjectGuid>{5229F958-25D1-4A18-BC6A-34E9A5B1A7C1}</ProjectGuid>
         <MainSource>SysToolsDBDR.dpk</MainSource>
         <Base>True</Base>
-        <Config Condition="'$(Config)'==''">Release</Config>
+        <Config Condition="'$(Config)'==''">Debug</Config>
         <TargetedPlatforms>3</TargetedPlatforms>
         <AppType>Package</AppType>
         <FrameworkType>VCL</FrameworkType>

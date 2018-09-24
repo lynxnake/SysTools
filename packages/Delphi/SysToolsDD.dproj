@@ -3,7 +3,7 @@
         <ProjectGuid>{C8F4B873-2F36-4888-9666-59140D15FC89}</ProjectGuid>
         <MainSource>SysToolsDD.dpk</MainSource>
         <Base>True</Base>
-        <Config Condition="'$(Config)'==''">Release</Config>
+        <Config Condition="'$(Config)'==''">Debug</Config>
         <TargetedPlatforms>1</TargetedPlatforms>
         <AppType>Package</AppType>
         <FrameworkType>None</FrameworkType>
